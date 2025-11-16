@@ -2,16 +2,11 @@
 
 ## About
 
-> [!NOTE]
-> 
-> Oct 21, 2024 - This repository has recently been transferred from The University of Alabama Libraries Web Services GitHub to The University of Alabama Libraries Research Data Services GitHub organization.
-> All GitHub related hyperlinks should automatically redirect to the new GitHub location, but if you notice anything that is not working correctly, please let us know.
-
-**V.F. Scalfani, The University of Alabama**
+**V.F. Scalfani, The University of Alabama, Fall 2024**
 
 Workshop materials for teaching computer-assisted retrosynthesis at The University of Alabama Libraries. This workshop code is licensed under the MIT License (the LillyMol workshop content is Apache License 2.0). However, these scripts may depend on external software and libraries, which must be installed separately and are subject to their own licenses. Please refer to their respective documentation for installation instructions and licensing details.
 
-Fall 2024
+*Acknowledgement: The workshop code tutorials and documentation were written by the contributing authors, with occasional assistance for debugging, code improvements, and language refinement from AI tools such as OpenAI ChatGPT and GitHub Copilot.*
 
 ## How to Run the Notebooks
 
