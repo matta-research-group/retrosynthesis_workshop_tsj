@@ -8,6 +8,22 @@ Workshop materials for teaching computer-assisted retrosynthesis at The Universi
 
 *Acknowledgement: The workshop code tutorials and documentation were written by the contributing authors, with occasional assistance for debugging, code improvements, and language refinement from AI tools such as OpenAI ChatGPT and GitHub Copilot.*
 
+Associated publication:
+
+```
+@article{doi:10.1021/acs.jchemed.5c00959,
+author = {Scalfani, Vincent F. and Walker, Kevin W. and Fernandez, Avery M. and Snowden, Timothy S.},
+title = {Teaching Computer-Assisted Retrosynthesis Reaction Prediction with Open-Source Software},
+journal = {Journal of Chemical Education},
+volume = {0},
+number = {0},
+pages = {null},
+year = {2025},
+doi = {10.1021/acs.jchemed.5c00959},
+URL = {https://doi.org/10.1021/acs.jchemed.5c00959},
+}
+```
+
 ## How to Run the Notebooks
 
 All code was developed and tested locally on Linux Ubuntu 22.04 LTS. Development environments were set up manually with conda-forge Miniforge (See notebooks). The code was originally developed and tested during September 2024, however, when updates were made in July/September 2025, a new local conda-forge environment was setup (as shown in notebook tutorials) and only updated notebooks were tested. We did not use the original exported conda-forge environment settings when updates were made, so these files are no longer accurate and have been removed.
