@@ -1,5 +1,13 @@
 # Retrosynthesis Workshop Materials
 
+## Edits Made by Tristan
+
+I have been working through the notebooks from 04_AiZynthFinder onward and have made some edits to fix bugs and improve clarity. These changes include:
+
+- Adding all the files required for 04_AiZynthFinder to run properly, as the zenodo links were not working.
+
+- More edits to come...
+
 ## About
 
 **V.F. Scalfani, The University of Alabama, Fall 2024**
